@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Frank Garcia\\Desktop\\CIDM 4390 - Adv. System\\Tutorial\\Mvcmovie\\Mvcmovie.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}
